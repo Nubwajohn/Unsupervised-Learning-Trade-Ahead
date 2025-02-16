@@ -1,4 +1,4 @@
-# Unsupervised-Learning-Trade-Ahead
+# Unsupervised-Learning-Trade-Ahead Project
 Unsupervised Learning: Trade & Ahead
 
 ## About
